@@ -8,10 +8,10 @@ class `3362_zeroArrayTransformation` {
 
         var pos = 0
         var queryPos = 0
-        var pq = PriorityQueue< List<Int> > ( compareByDescending<List<Int>> {it[1]}.thenBy {it[0]} )
+        val pq = PriorityQueue< List<Int> > ( compareByDescending<List<Int>> {it[1]}.thenBy {it[0]} )
         var cover = 0
         // var inCover = MutableList(queries.size) {0}
-        var outCover = MutableList(nums.size) {0}
+        val outCover = MutableList(nums.size) {0}
 
         while(pos < nums.size) {
             while(queryPos < queries.size && queries[queryPos][0] <= pos) {
@@ -41,6 +41,6 @@ class `3362_zeroArrayTransformation` {
 }
 /**
  * category:
- * tag: priority_queue, sort, query
+ * tag: priority_queue, sort, query, medium
  *
  * */
