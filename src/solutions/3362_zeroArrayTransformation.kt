@@ -41,6 +41,6 @@ class `3362_zeroArrayTransformation` {
 }
 /**
  * category:
- * tag: priority_queue, sort, query, medium
+ * tag: priority_queue, sort, query, medium, revise
  *
  * */
