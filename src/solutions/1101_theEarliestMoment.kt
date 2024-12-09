@@ -59,6 +59,6 @@ class `1101_theEarliestMoment` {
 }
 /**
  * category:
- * tag: union set, graph
+ * tag: union set, graph, dsu, disjoint set union
  *
  * */
