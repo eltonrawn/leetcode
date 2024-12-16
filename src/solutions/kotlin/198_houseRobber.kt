@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `198_houseRobber` {
     fun func(pos: Int, taken: Int, nums: IntArray, dp: MutableList<MutableList<Int>>): Int {

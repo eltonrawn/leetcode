@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `410_splitArray` {
     fun valid(sum: Int, nums: IntArray, k: Int): Boolean {

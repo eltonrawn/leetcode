@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `2337_movePieces` {
     fun canChange(start: String, target: String): Boolean {

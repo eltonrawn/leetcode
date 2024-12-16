@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `394_decodeString` {
     fun func(i: Int, j: Int, ri: MutableList<Int>, s: String): StringBuilder {

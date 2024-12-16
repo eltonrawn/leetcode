@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 import java.util.*
 

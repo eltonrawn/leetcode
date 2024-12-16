@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `721_accountsMerged` {
     class UnionFind {

@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `31_nextPermutation` {
     var vis = MutableList(0) {0}

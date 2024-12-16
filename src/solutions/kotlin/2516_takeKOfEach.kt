@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `2516_takeKOfEach` {
     val cnt = MutableList(3) {0}

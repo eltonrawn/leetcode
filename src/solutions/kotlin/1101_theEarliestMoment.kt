@@ -1,6 +1,4 @@
-package solutions
-
-import java.util.Collections.swap
+package solutions.kotlin
 
 class `1101_theEarliestMoment` {
     class UnionSet {

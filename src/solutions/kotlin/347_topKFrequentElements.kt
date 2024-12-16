@@ -1,4 +1,4 @@
-package solutions
+package solutions.kotlin
 
 class `347_topKFrequentElements` {
     fun topKFrequent(nums: IntArray, k: Int): IntArray {
