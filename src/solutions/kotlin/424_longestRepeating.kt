@@ -34,4 +34,5 @@ class `424_longestRepeating` {
 /**
  * tag: medium, revise, sliding window, two pointer
  *
+ * solution here is O (n & 26), revise for O(n) in the editorial
  * */
