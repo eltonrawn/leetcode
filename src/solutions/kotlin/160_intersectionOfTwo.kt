@@ -52,3 +52,8 @@ class `160_intersectionOfTwo` {
 
     }
 }
+/**
+ * category:
+ * tag: linked list, memory optimize, memory optimization, constant memory, tricky, revise
+ *
+ * */
